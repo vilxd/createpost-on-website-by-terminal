@@ -13,6 +13,3 @@ For your convenience, I recommend Bun as a runtime.
 
 This project is easily scalable and looks very unusual.
 Maybe you will find more interesting use for it :)
-
-
-Translated with DeepL.com (free version)
